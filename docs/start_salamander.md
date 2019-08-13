@@ -59,7 +59,7 @@ See [here](index.html) for instructions on running the Jupyter Notebook tutorial
 
 ## Step 4: Update the fastai library
 
-Before you start working it's a good idea ot update the pytorch and fastai libraries, and the course notebooks. To do this you will have to access the terminal. You can do this by clicking in 'New', 'Terminal'.
+Before you start working it's a good idea to update the pytorch and fastai libraries, and the course notebooks. To do this you will have to access the terminal. You can do this by clicking in 'New', 'Terminal'.
 
 <img alt="terminal" src="/images/terminal.png" class="screenshot">
 
